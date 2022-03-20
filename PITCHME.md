@@ -7,9 +7,8 @@ class: invert
 
 ![bg](https://pbs.twimg.com/media/E3sXKUHVoAEpnUU?format=jpg&name=small)
 
-*2021.Dec.*
-Product Team
-FE engineer
+*2022.Mar.*
+
 박세문
 
 ---
@@ -98,7 +97,7 @@ ___
 - `.html` -> `DOM tree`
 ---
 
-![w:1200](https://developers.google.com/web/updates/images/inside-browser/part3/dom.png?hl=ko)
+![w:1200](https://wd.imgix.net/image/T4FyVKpzu4WKF1kBNvXepbi08t52/qmuN5aduuEit6SZfwVOi.png?auto=format&w=1600)
 
 
 ---
